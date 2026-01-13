@@ -1,2 +1,2 @@
-# personal-quiz
+# index.html
 Quiz
